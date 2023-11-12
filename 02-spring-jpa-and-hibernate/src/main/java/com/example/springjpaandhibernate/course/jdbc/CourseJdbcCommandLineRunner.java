@@ -13,6 +13,8 @@ public class CourseJdbcCommandLineRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        repository.insert(new Course(1,"Learn SpringBoot","RangaKarnam"));
+        repository.insert(new Course(1,"Learn Spring","Ranga Karnam"));
+        repository.insert(new Course(2,"Learn Spring-Boot","Ranga Karnam"));
+        repository.insert(new Course(3,"Learn AWS","Ranga Karnam"));
     }
 }
