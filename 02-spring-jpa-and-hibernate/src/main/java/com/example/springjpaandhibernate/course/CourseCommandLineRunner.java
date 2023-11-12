@@ -38,5 +38,17 @@ public class CourseCommandLineRunner implements CommandLineRunner {
         repository.deleteById(1L);
         System.out.println(repository.findById(2L));
         System.out.println(repository.findById(3L));
+
+        //find all courses
+        System.out.println(repository.findAll());
+        //count no of courses
+        System.out.println(repository.count());
+
+        //custom query - findByAuthor
+        System.out.println(repository.findByAuthor("Ranga Karnam"));
+        System.out.println(repository.findByAuthor(""));
+        //custom query - findByName
+        System.out.println(repository.findByName("Learn Spring-Boot Data JPA"));
+
     }
 }
