@@ -1,0 +1,8 @@
+//play with h2 console querying
+
+SELECT * FROM COURSE
+
+insert into course(id, name, author)
+values(1,'spring','ranga')
+
+delete from course where id=1
