@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92a91f09-e5d0-457a-9297-c0afed35f17a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/CourseController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/CurrencyConfigurationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/CurrencyServiceConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/MasterspringbootApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/MasterspringbootApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="92a91f09-e5d0-457a-9297-c0afed35f17a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/aades/OneDrive/Desktop/Spring/MasterSpringBoot/src/main/resources",
+    "last_opened_file_path": "C:/Users/aades/OneDrive/Desktop/Spring/MasterSpringBoot/02-spring-jpa-and-hibernate",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699703116172</updated>
-      <workItem from="1699703117149" duration="5686000" />
+      <workItem from="1699703117149" duration="6455000" />
     </task>
     <task id="LOCAL-00001" summary="Build simple rest api">
       <option name="closed" value="true" />
@@ -177,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699789684598</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="segregate files into 01-springboot">
+      <option name="closed" value="true" />
+      <created>1699790517140</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790517140</updated>
+    </task>
+    <task id="LOCAL-00009" summary="segregate files into 01-springboot">
+      <option name="closed" value="true" />
+      <created>1699790609292</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699790609292</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +202,7 @@
     <MESSAGE value="Set Configuration properties for different env" />
     <MESSAGE value="Added actuator - check 'baseurl/actuator'for endpoints" />
     <MESSAGE value="To get additional endpoints" />
-    <option name="LAST_COMMIT_MESSAGE" value="To get additional endpoints" />
+    <MESSAGE value="segregate files into 01-springboot" />
+    <option name="LAST_COMMIT_MESSAGE" value="segregate files into 01-springboot" />
   </component>
 </project>
